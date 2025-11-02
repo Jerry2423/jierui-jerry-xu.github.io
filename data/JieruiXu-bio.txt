@@ -1,0 +1,7 @@
+Jierui (Jerry) Xu is an undergraduate student in Computer Science at the University of Wisconsin–Madison, where he focuses on building high-performance and scalable systems for Large Language Models (LLMs). He previously studied at ShanghaiTech University in Shanghai, China, maintaining excellent academic performance with a 3.9/4.0 GPA.
+
+Jerry's research interests lie in software-hardware co-design for novel AI accelerator architectures, with particular emphasis on AWS Trainium and GPU optimization to minimize latency and maximize throughput at scale. He has extensive experience with performance optimization frameworks including CUDA, Triton, TensorRT, vLLM, and ONNX.
+
+His technical expertise spans systems programming in Python, C++, and C, along with specialized knowledge in CUDA programming for GPU acceleration. Jerry is proficient in modern deep learning frameworks including PyTorch, TensorFlow, and Hugging Face Transformers, with a focus on optimizing model inference and distributed training systems.
+
+Currently pursuing his Bachelor's degree at UW-Madison with a perfect 4.0 GPA, Jerry is actively involved in research projects that bridge high-performance computing with artificial intelligence, contributing to the development of next-generation AI infrastructure and accelerator architectures.
